@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\gameManager.js">
+    <Files>
+      <File FileName="Assets\script\main.js" Line="9" Column="20" />
+      <File FileName="Assets\script\gameManager.js" Line="54" Column="3" />
+      <File FileName="Assets\ddong\ddong.js" Line="15" Column="26" />
+      <File FileName="Assets\script\player.js" Line="12" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ddong" expanded="True" />
+              <Node name="script" expanded="True">
+                <Node name="gameManager.js" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript-firstpass" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

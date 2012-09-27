@@ -1,0 +1,31 @@
+Direct3D:
+    Version:  Direct3D 9.0c [ati2dvag.dll 6.14.10.7236]
+    Renderer: ATI Radeon HD 2600 XT
+    Vendor:   ATI
+    VRAM:     256 MB (via registry)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=0 RAWZ=0 NULL=0 RESZ=1 SlowINTZ=1
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-016F1918 (this message is harmless)
+Non platform assembly: data-017585A8 (this message is harmless)
+Non platform assembly: data-0175BFB0 (this message is harmless)
+Non platform assembly: data-017631C8 (this message is harmless)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 130.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 130.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 130.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
